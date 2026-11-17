@@ -1,0 +1,16 @@
+====================================
+ SISTEMA DE MONITOREO DE ALCANTARILLADO
+Fecha: 16/11/2026
+Hora: 21:19:34
+====================================
+
+Mediciones:
+P1 | Caudal: 10 L/s | Nivel: 5 cm
+P2 | Caudal: 9.8 L/s | Nivel: 4.9 cm
+P3 | Caudal: 90.7 L/s | Nivel: 4.8 cm
+
+Variacion del caudal: -807%
+Variacion del nivel: -4%
+
+Resultado: FUNCIONAMIENTO NORMAL: no se detectaron anomalias.
+====================================
